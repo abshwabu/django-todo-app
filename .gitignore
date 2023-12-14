@@ -10,3 +10,5 @@ backend/__pycache__/wsgi.cpython-312.pyc
 api/__pycache__/urls.cpython-312.pyc
 api/migrations/__pycache__/0002_todo_created_at.cpython-312.pyc
 backend/__pycache__/settings.cpython-312.pyc
+api/__pycache__/serializers.cpython-312.pyc
+api/__pycache__/views.cpython-312.pyc
